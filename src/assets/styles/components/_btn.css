@@ -1,0 +1,12 @@
+.bg-danger {
+  --tw-bg-opacity: 1;
+  background-color: rgb(var(--color-danger) / var(--tw-bg-opacity));
+}
+.border-danger {
+  --tw-border-opacity: 1;
+  border-color: rgb(var(--color-danger) / var(--tw-border-opacity));
+}
+.dark .dark\:border-danger {
+  --tw-border-opacity: 1;
+  border-color: rgb(var(--color-danger) / var(--tw-border-opacity));
+}

@@ -1,0 +1,152 @@
+[
+    {
+        "id": "da39f21a-8af8-401a-93dd-4371c518f9cf",
+        "authorId": 4,
+        "date": "20 Tháng 5, 2021",
+        "duration": "1 giờ 30 phút",
+        "href": "/services/1",
+        "listingCategoryId": "yoga",
+        "title": "Lớp Yoga Động",
+        "featuredImage": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1435866-media_library/original/38d6b5ea-abcc-4876-acb4-e5b79586c37c.jpeg?im_w=1200",
+        "galleryImgs": [
+            "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1435866-media_library/original/38d6b5ea-abcc-4876-acb4-e5b79586c37c.jpeg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1435866-media_library/original/38d6b5ea-abcc-4876-acb4-e5b79586c37c.jpeg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1435866-media_library/original/38d6b5ea-abcc-4876-acb4-e5b79586c37c.jpeg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1435866-media_library/original/38d6b5ea-abcc-4876-acb4-e5b79586c37c.jpeg?im_w=1200"
+        ],
+        "commentCount": 64,
+        "viewCount": 369,
+        "like": true,
+        "address": "2 Hẻm Warner",
+        "reviewStart": 4.4,
+        "reviewCount": 478,
+        "price": "200.000 VND",
+        "maxGuests": 15,
+        "saleOff": null,
+        "isAds": null,
+        "map": {
+            "lat": 55.2094559,
+            "lng": 61.5594641
+        }
+    },
+    {
+        "id": "2cf0b92c-75d0-490b-ab77-0a0e0a2cc01c",
+        "authorId": 9,
+        "date": "20 Tháng 5, 2021",
+        "duration": "1 giờ 30 phút",
+        "href": "/services/2",
+        "listingCategoryId": "cardio",
+        "title": "Buổi Tập Cardio Chuyên Nghiệp",
+        "featuredImage": "https://images.pexels.com/photos/6455686/pexels-photo-6455686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "galleryImgs": [
+            "https://images.pexels.com/photos/6455686/pexels-photo-6455686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+            "https://images.pexels.com/photos/6455686/pexels-photo-6455686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+            "https://images.pexels.com/photos/6455686/pexels-photo-6455686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+            "https://images.pexels.com/photos/6455686/pexels-photo-6455686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        ],
+        "commentCount": 62,
+        "viewCount": 864,
+        "like": false,
+        "address": "620 Công Viên Clove",
+        "reviewStart": 3.2,
+        "reviewCount": 566,
+        "price": "249.000 VND",
+        "maxGuests": 20,
+        "saleOff": null,
+        "isAds": null,
+        "map": {
+            "lat": 55.1972153,
+            "lng": 61.4407266
+        }
+    },
+    {
+        "id": "3abf9805-f2c5-40e2-9ab3-eb9a3a4b6dfe",
+        "authorId": 7,
+        "date": "12 Tháng 6, 2021",
+        "duration": "1 giờ 30 phút",
+        "href": "/services/3",
+        "listingCategoryId": "weightlifting",
+        "title": "Lớp Tập Gym Cơ Bản",
+        "featuredImage": "https://images.pexels.com/photos/4100062/pexels-photo-4100062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "galleryImgs": [
+            "https://images.pexels.com/photos/4100062/pexels-photo-4100062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+            "https://images.pexels.com/photos/4100062/pexels-photo-4100062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+            "https://images.pexels.com/photos/4100062/pexels-photo-4100062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+            "https://images.pexels.com/photos/4100062/pexels-photo-4100062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        ],
+        "commentCount": 47,
+        "viewCount": 295,
+        "like": true,
+        "address": "87 Đường Hoa",
+        "reviewStart": 4.8,
+        "reviewCount": 321,
+        "price": "180.000 VND",
+        "maxGuests": 12,
+        "saleOff": "Giảm giá 10%",
+        "isAds": true,
+        "map": {
+            "lat": 55.1908453,
+            "lng": 61.4857266
+        }
+    },
+    {
+        "id": "c60b4b0e-42b5-412e-864d-7b3aaf09ff15",
+        "authorId": 6,
+        "date": "25 Tháng 6, 2021",
+        "duration": "1 giờ 30 phút",
+        "href": "/services/4",
+        "listingCategoryId": "yoga",
+        "title": "Lớp Yoga Thư Giãn",
+        "featuredImage": "https://images.pexels.com/photos/3561689/pexels-photo-3561689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "galleryImgs": [
+            "https://images.pexels.com/photos/3561689/pexels-photo-3561689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+            "https://images.pexels.com/photos/3561689/pexels-photo-3561689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+            "https://images.pexels.com/photos/3561689/pexels-photo-3561689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+            "https://images.pexels.com/photos/3561689/pexels-photo-3561689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        ],
+        "commentCount": 30,
+        "viewCount": 210,
+        "like": true,
+        "address": "124 Đường Lá",
+        "reviewStart": 4.5,
+        "reviewCount": 250,
+        "price": "220.000 VND",
+        "maxGuests": 20,
+        "saleOff": null,
+        "isAds": null,
+        "map": {
+            "lat": 55.2094559,
+            "lng": 61.5594641
+        }
+    },
+    {
+        "id": "25c03cc4-8ecf-4d4b-af2f-d6f48230c97a",
+        "authorId": 11,
+        "date": "30 Tháng 6, 2021",
+        "duration": "1 giờ 30 phút",
+        "href": "/services/5",
+        "listingCategoryId": "cardio",
+        "title": "Tăng Cường Sức Mạnh Cardio",
+        "featuredImage": "https://images.pexels.com/photos/5250/healthy-fitness-sport-exercise.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "galleryImgs": [
+            "https://images.pexels.com/photos/5250/healthy-fitness-sport-exercise.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+            "https://images.pexels.com/photos/5250/healthy-fitness-sport-exercise.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+            "https://images.pexels.com/photos/5250/healthy-fitness-sport-exercise.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+            "https://images.pexels.com/photos/5250/healthy-fitness-sport-exercise.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        ],
+        "commentCount": 45,
+        "viewCount": 410,
+        "like": true,
+        "address": "136 Đường Điện Biên",
+        "reviewStart": 4.6,
+        "reviewCount": 380,
+        "price": "300.000 VND",
+        "maxGuests": 15,
+        "saleOff": null,
+        "isAds": null,
+        "map": {
+            "lat": 55.1972153,
+            "lng": 61.4407266
+        }
+    }
+]
